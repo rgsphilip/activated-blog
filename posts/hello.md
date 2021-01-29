@@ -1,6 +1,6 @@
 ---
 title: "Hello World! The Start of Activated Blog"
-date: "2021-01-11"
+date: "2021-01-28"
 ---
 
 Hello world! This is the start of the Activated Blog.
