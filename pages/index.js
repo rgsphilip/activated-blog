@@ -21,14 +21,14 @@ export default function Home ({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>The Activated Blog is a log of things I'm doing to get involved in making a difference, especially around climate change.</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          I'm a working parent, living in Oregon. I have no training or prior experience in politics or writing.
+          Looking around the world, it seems clear to me that we aren't going to escape the messes we're embroiled in without everyone doing their part to make the world better. So, here I go, muddling through what it means to make a difference and how to make it happen.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
+        <h2 className={utilStyles.headingLg}>Posts</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
