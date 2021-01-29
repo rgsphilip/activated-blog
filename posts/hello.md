@@ -7,7 +7,7 @@ Hello world! This is the start of the Activated Blog.
 
 ## What's in a name?
 
-I have been (slowly) making my way from somewhat informed individual to active citizen. This blog is to document what I'm doing along the way to become more engaged and informed about policies and politics. In short, how I'm getting activated as a citizen. For now, this is largely myself; it's a way to take whatever it is I've done in a week, write and reflect on it, and decide what to do next. It's also for you, reader, if you're also muddling through how to become more engaged with your government and civic life. This blog will hopefully give you some ideas, as well as remind you that you're not alone in trying to figure out how to become more engaged.
+I have been (slowly) making my way from somewhat informed individual to active citizen. This blog is to document what I'm doing along the way to become more engaged and informed about policies and politics. In short, how I'm getting activated as a citizen. For now, this is largely for myself; it's a way to take whatever it is I've done in a week, write and reflect on it, and decide what to do next. It's also for you, reader, if you're also muddling through how to become more engaged with your government and civic life. This blog will hopefully give you some ideas, as well as remind you that you're not alone in trying to figure out how to become more engaged.
 
 ## Why a new blog? How often?
 
