@@ -5,7 +5,7 @@ date: "2021-12-04"
 
 ## A Year of Trees
 
-A Year of Trees is an idea where a whole city (in this case, the City of Beaverton) is challenged and encouraged to plant as many trees as possible, wherever we can. We could set a goal, such as one tree for every 10 people (about 10,000 trees). We keep count of the trees planted on public grounds, and community members can report the trees that they plant privately. At the end of the year, we celebrate how many trees we planted together! We can showcase the work we did as a community by creating a map of all the new trees in Beaverton, and documenting some estimates of how much good the trees will do over the next 10 to 20 years (shade provided, carbon captured, etc).
+A Year of Trees is an idea where a whole city (in this case, the City of Beaverton) is challenged and encouraged to plant as many trees as possible, wherever we can, in one year. We could set a goal, such as one tree for every 10 people (about 10,000 trees). We keep count of the trees planted on public grounds, and community members can report the trees that they plant privately. At the end of the year, we celebrate how many trees we planted together! We can showcase the work we did as a community by creating a map of all the new trees in Beaverton, and documenting some estimates of how much good the trees will do over the next 10 to 20 years (shade provided, carbon captured, etc).
 
 ### Inspiration
 
