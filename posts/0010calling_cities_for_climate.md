@@ -1,6 +1,6 @@
 ---
 title: "Calling Cities for Climate"
-date: "2022-11-20"
+date: "2022-11-22"
 ---
 
 I spoke to the Beaverton City Council meeting on November 15th to ask them to prioritize climate in their upcoming retreat in early 2023. With the increasingly dire state of the climate crisis, I wanted them to hear from their constituents that climate is a top priority. Many of the council members know that climate is important, but they need to hear from us that we will support them if they take bigger policy steps. These were my prepared remarks:
