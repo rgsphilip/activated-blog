@@ -5,7 +5,7 @@ date: "2022-11-22"
 
 I spoke to the Beaverton City Council meeting on November 15th to ask them to prioritize climate in their upcoming retreat in early 2023. With the increasingly dire state of the climate crisis, I wanted them to hear from their constituents that climate is a top priority. Many of the council members know that climate is important, but they need to hear from us that we will support them if they take bigger policy steps. These were my prepared remarks:
 
-> I know that climate is important to this council - thank you for supporting initiatives like 1st Street Commons to Make Downtown more pedestrian friendly and getting rid of parking minimums. I am calling to ask this council to be even more ambitious on prioritizing climate policy as you plan for the coming year.
+> I know that climate is important to this council - thank you for supporting initiatives like 1st Street Commons to make downtown more pedestrian friendly and getting rid of parking minimums. I am calling to ask this council to be even more ambitious on prioritizing climate policy as you plan for the coming year.
 >
 > Antonio Gutters, Secretary General of the UN recently said "We are on a highway to climate hell with our foot on the accelerator. Our planet is fast approaching tipping points that will make climate chaos irreversible. We need urgent climate action."
 >
